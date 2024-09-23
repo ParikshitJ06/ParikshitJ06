@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="Header.webp" alt="Background" align="center">
+<img src="Header.png" alt="Background" align="center">
 <h1 align="center">Hey Hi 👋, I am Parikshit Jadhav</h1>
 <h3 align="center">| Aspiring Software Engineer | Full-Stack Web Developer | AI & ML Enthusiast |</h3>
 
