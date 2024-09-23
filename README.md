@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-<img src="Header.webp" alt="Background">
+<img src="Header.webp" alt="Background" align="center">
 <h1 align="center">Hey Hi 👋, I am Parikshit Jadhav</h1>
 <h3 align="center">| Aspiring Software Engineer | Full-Stack Web Developer | AI & ML Enthusiast |</h3>
 
@@ -41,14 +40,15 @@
 ---
 
 ### 🔭 What I’m Working On:
-- **Web Development:** Building dynamic and responsive web applications.
-- **Generative AI:** Experimenting with AI models to create innovative solutions.
+- **Web Development:** Building dynamic and responsive web applications with a focus on performance and user experience.
+- **Generative AI Projects:** Exploring the applications of AI in creative solutions and automation.
 
 ### 🌱 What I’m Learning:
-- **DevOps:** Mastering CI/CD pipelines, Docker, Kubernetes, and cloud deployment.
-- **Java Full Stack Development:** Developing robust and scalable web applications with Java, Spring Boot, and related technologies.
-- **Generative AI:** Exploring advanced AI techniques to push the boundaries of creativity and automation.
+- **DevOps:** Enhancing my skills in CI/CD, Docker, Kubernetes, and cloud deployment.
+- **Java Full Stack Development:** Mastering the development of scalable web applications using Java, Spring Boot, and associated technologies.
+- **Generative AI:** Continuing to explore AI tools and models like GPT and DALL-E for innovative solutions.
 
+---
 
 ### 📫 How to Reach Me:
 - **Email:** [jadhavparikshit0510@gmail.com](mailto:jadhavparikshit0510@gmail.com)
@@ -65,7 +65,7 @@
   <a href="https://linkedin.com/in/jadhavparikshit" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_parikshit_jadhav_" target="blank">
+  <a href="https://instagram.com/jadhavparikshit._" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/u/jparikshit6" target="blank">
@@ -82,6 +82,9 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
@@ -101,9 +104,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   </a>
@@ -113,17 +113,5 @@
 </p>
 
 ---
-<!--
-**ParikshitJ06/ParikshitJ06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
