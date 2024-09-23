@@ -53,7 +53,7 @@
 ### 📫 How to Reach Me:
 - **Email:** [jadhavparikshit0510@gmail.com](mailto:jadhavparikshit0510@gmail.com)
 - **LinkedIn:** [linkedin.com/in/jadhavparikshit](https://in.linkedin.com/in/jadhavparikshit)
-- **Twitter:** [@jparikshit6](https://twitter.com/jparikshit6)
+- **Twitter:** [@jparikshit6](https://x.com/jparikshit0510)
 
 ---
 
