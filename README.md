@@ -113,11 +113,6 @@
 </p>
 
 ---
-
-<p align="center"> 
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&text_color=brightgreen&animation=default&layout=default&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it’s%20bad." alt="Programming Quote" />
-</p>
-
 <!--
 **ParikshitJ06/ParikshitJ06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
