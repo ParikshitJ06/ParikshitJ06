@@ -9,7 +9,7 @@
   <a href="https://github.com/ParikshitJ06">
     <img src="https://komarev.com/ghpvc/?username=ParikshitJ06&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views" />
   </a>
-  <a href="https://twitter.com/jparikshit6">
+  <a href="https://x.com/jparikshit0510?t=lBz1avdLuxuUlOC8Nb4ufQ&s=09">
     <img src="https://img.shields.io/twitter/follow/jparikshit6?logo=twitter&style=flat-square" alt="Twitter Follow" />
   </a>
 </p>
