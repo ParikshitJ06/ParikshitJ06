@@ -1,3 +1,4 @@
+<img src="Header.png" alt="Background" align="center">
 # Hey there! 👋 I'm Parikshit Jadhav
 
 <h1 align="center">Parikshit Jadhav</h1>
