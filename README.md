@@ -2,7 +2,7 @@
 
 <img src="Header.png" alt="Background" align="center">
 <h1 align="center">Hey Hi 👋, I am Parikshit Jadhav</h1>
-<h3 align="center">| Aspiring Software Engineer | Full-Stack Web Developer | AI & ML Enthusiast |</h3>
+<h3 align="center">| AI Engineer | Agentic AI | GenAI |</h3>
 
 <p align="center">
   <a href="https://github.com/ParikshitJ06">
